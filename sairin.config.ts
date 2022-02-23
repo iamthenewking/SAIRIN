@@ -12,12 +12,9 @@ export default {
     links: [
       {
         title: "GitHub",
-        url: "https://github.com/djyde/sairin",
+        url: "https://github.com/iamthenewking",
       },
-      {
-        title: "Twitter",
-        url: "https://twitter.com/randyloop",
-      },
+       
     ],
   },
 } as SairinConfig;
